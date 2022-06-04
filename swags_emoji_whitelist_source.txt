@@ -1,5 +1,5 @@
 local ADMINS = {
-    87521950, -- Lerkermer
+    3108940816, -- shadow_hunters039
     1342879760, -- w_6u
     200547759, -- Mas2n
     12344533453, -- SusLeveI100
